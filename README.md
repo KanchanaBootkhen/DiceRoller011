@@ -1,2 +1,3 @@
 # DiceRoller011
- ลูกเต๋า
+<img src=/Dice.PNG
+>
